@@ -88,7 +88,9 @@ i) Análisis de la evolución de los siguientes parámetros a través del tiempo
 - loudness
 - speechiness
 
-iii) Top 20 artistas de la historia por popularidad
+iii) Top 10 artistas de la historia por popularidad
+
+
 
 iv) Evolución del género musical a través de los años
 
@@ -96,7 +98,9 @@ iv) Evolución del género musical a través de los años
 
 v) Top 10 artistas en cuanto a numero de followers en la actualidad
 
-## predicción de tendencias futuras: ARIMA (Autoregressive Integrated Moving Average Model)
+![](Tableau/top_followers.png)
+
+## Predicción de tendencias futuras: ARIMA (Autoregressive Integrated Moving Average Model)
 
 A través de Time Series Regression, realizaremos una predicción futura en base al comportamiento que haya tenido la variable en el pasado.
 
@@ -111,7 +115,7 @@ A través del modelo ARIMA, haremos una predicción futura en base al histórico
 
 ![](imagenes/danzability_forecast.png)
 
-## predicción de tendencias futuras: ARIMA (Autoregressive Integrated Moving Average Model)
+## Predicción de tendencias futuras: ARIMA (Autoregressive Integrated Moving Average Model)
 
 Posteriormente, intentaremos predecir el numero de followers futuros que hemos obtenido a traves de la API, entrenando nuestro modelo con las variables predictoras. Los modelos que utilizaremos serán los siguientes:
 
