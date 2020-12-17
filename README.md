@@ -90,15 +90,15 @@ i) Análisis de la evolución de los siguientes parámetros a través del tiempo
 
 (análisis en la carpeta Tableau)
 
-iii) Top 10 artistas de la historia por popularidad
+ii) Top 10 artistas de la historia por popularidad
 
 ![](Tableau/top_10_artist.png)
 
-iv) Evolución del género musical a través de los años
+iii) Evolución del género musical a través de los años
 
 ![](imagenes/generos.png)
 
-v) Top 10 artistas en cuanto a numero de followers en la actualidad
+iv) Top 10 artistas en cuanto a numero de followers en la actualidad
 
 ![](Tableau/top_followers.png)
 
