@@ -122,6 +122,7 @@ A través del modelo ARIMA, haremos una predicción futura en base al histórico
 Posteriormente, intentaremos predecir el numero de followers futuros que hemos obtenido a traves de la API, entrenando nuestro modelo con las variables predictoras. Los modelos que utilizaremos serán los siguientes:
 
 a) Lineal Regression
+
 b) Random Forest Regression
 
 Lo primero será eliminar las variables categóricas que no tienen correlación con los followers.
