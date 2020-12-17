@@ -7,13 +7,13 @@ Bienvenido al proyecto de análisis de la historia de la música contemporánea 
 ## Secciones:
 -[Objetivo del proyecto](#Objetivo-del-proyecto)
 
--[Análisis y limpieza de la base de datos](#Anális-y-limpiezada-de-la-base-de-datos)
+-[Analisis y limpieza de la base de datos](#Analis-y-limpiezada-de-la-base-de-datos)
 
 -[Uso de la API de Spotify](#Uso-de-la-API-de-Spotify)
 
--[Visualización de datos con Tableau. Tendencias y grupos más relevantes](#Visualización-de-datos-con-Tableau.Tendencias-y-grupos-más-relevantes)
+-[Visualizacion de datos con Tableau](#Visualizacion-de-datos-con-Tableau)
 
--[Predicción de tendencias futuras mediante Machine Learning](#MPredicción-de-tendecias-futuras-mediante-Machine-Learning)
+-[Prediccion de tendencias futuras mediante Machine Learning](#MPrediccion-de-tendecias-futuras-mediante-Machine-Learning)
 
 -[Retos afrontados durante el proyecto](#Retos-afrontados-durante-el-proycto)
 
@@ -88,11 +88,11 @@ i) Análisis de la evolución de los siguientes parámetros a través del tiempo
 - loudness
 - speechiness
 
-iii) Top 20 artistas de la historia por popularidad.
+iii) Top 20 artistas de la historia por popularidad
 
 iv) Evolución del género musical a través de los años
 
-![](imagenes/genero.png)
+![](imagenes/generos.png)
 
 v) Top 10 artistas en cuanto a numero de followers en la actualidad
 
