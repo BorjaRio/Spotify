@@ -88,9 +88,11 @@ i) Análisis de la evolución de los siguientes parámetros a través del tiempo
 - loudness
 - speechiness
 
+(análisis en la carpeta Tableau)
+
 iii) Top 10 artistas de la historia por popularidad
 
-
+![](Tableau/top_10_artist.png)
 
 iv) Evolución del género musical a través de los años
 
