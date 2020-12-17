@@ -106,7 +106,7 @@ iv) Top 10 artistas en cuanto a numero de followers en la actualidad
 
 A través de Time Series Regression, realizaremos una predicción futura en base al comportamiento que haya tenido la variable en el pasado.
 
-A través de Datetime, estudiaremos el histórico y mediante la librería de statsmodels, seasonal_decompose, haremos un análisis de tendencia, estacionalidad y residuos
+A través de Datetime, estudiaremos el histórico y mediante la librería de statsmodels, seasonal_decompose, haremos un análisis de tendencia, estacionalidad y residuos.
 
 A través del modelo ARIMA, haremos una predicción futura en base al histórico de las siguientes variables:
 
@@ -121,7 +121,7 @@ A través del modelo ARIMA, haremos una predicción futura en base al histórico
 
 Posteriormente, intentaremos predecir el numero de followers futuros que hemos obtenido a traves de la API, entrenando nuestro modelo con las variables predictoras. Los modelos que utilizaremos serán los siguientes:
 
-a) Regresión Lineal
+a) Lineal Regression
 b) Random Forest Regression
 
 Lo primero será eliminar las variables categóricas que no tienen correlación con los followers.
