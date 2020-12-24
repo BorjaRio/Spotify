@@ -1,4 +1,4 @@
-# Historia de la musica contenporánea a través de Spotify
+# Historia de la musica contemporánea a través de Spotify
 
 ![](imagenes/imagen1_spotify.png)
 
